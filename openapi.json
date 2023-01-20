@@ -9,6 +9,11 @@
     "title": "Mailterlite API V2",
     "version": "1.0.6"
   },
+  "servers": [
+    {
+      "url": "/"
+    }
+  ],
   "paths": {
     "/api/subscribers": {
       "get": {
