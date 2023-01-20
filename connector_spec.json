@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "fields": [
     {
-      "field": "API_KEY","
+      "field": "API_KEY",
       "displayName": "Mailerlite API Key",
       "type": "String",
       "minLength": 4,
