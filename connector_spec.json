@@ -23,6 +23,18 @@
       "default": "API_KEY",
       "example": "API_KEY",
       "helpSection": ""
+    },
+    {
+      "field": "SERVER_URL",
+      "displayName": "Mailerlite Server URL",
+      "type": "String",
+      "minLength": 4,
+      "maxLength": 60,
+      "required": true,
+      "description": "Mailerlite API Server URL",
+      "default": "https://connect.mailerlite.com",
+      "example": "https://connect.mailerlite.com",
+      "helpSection": "Use the default value https://connect.mailerlite.com"
     }
   ]
 }
